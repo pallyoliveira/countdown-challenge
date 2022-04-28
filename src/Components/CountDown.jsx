@@ -20,6 +20,7 @@ const CountDown = (props) => {
 
   const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
 
+
   useEffect(() => {
     const timer = setTimeout(() => {
       setTimeLeft(calculateTimeLeft());
