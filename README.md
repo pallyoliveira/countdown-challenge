@@ -19,8 +19,8 @@ Aaplicativo em React com os seguintes requisitos:
 Um aplicativo de contagem regressiva em dias para determinada atividade. 
 O usuário pode criar um evento e colocar a quantidade de dias até o evento ocorrer.
 
-Aplicativo deverá conter:
-- Modal para criação do evento (deverá ter entradas de título do evento,
-quantidade de dias ou data do evento e descrição do evento);
+Aplicativo contém:
+- Modal para criação do evento (entradas de título do evento,
+  data do evento e descrição do evento);
 - Lista dos eventos e da quantidade de dias restantes até a realização do mesmo;
 - Botão para excluir um evento.
